@@ -10,10 +10,10 @@ public class Ex02 {
 //        System.out.println("닿지 않아"); // ⚠️ 실행되지 않음
 
         //  종료조건을 만족시키지 못하는 무한루프
-        for (int i = 0; i < 10; i++) {
-            System.out.println("그래도");
-            i--;
+//        for (int i = 0; i < 10; i++) {
+//            System.out.println("그래도");
+//            i--;
         }
-        System.out.println("닿지 않아"); // ⚠️ 실행되지 않음
-    }
+//        System.out.println("닿지 않아"); // ⚠️ 실행되지 않음
+//    }
 }
