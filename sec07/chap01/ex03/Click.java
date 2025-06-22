@@ -1,4 +1,4 @@
-package sec07.ex02;
+package sec07.chap01.ex03;
 
 public class Click {
     int x;
@@ -13,8 +13,7 @@ public class Click {
 
     //  ⭐️ 아래를 주석해제하고 다시 실행해 볼 것
     //  @Override
-    //  public boolean equals(Object obj) {
-    //      if (!(obj instanceof Click)) return false;
-    //      return this.x == ((Click) obj).x && this.y == ((Click) obj).y;
+    //  public int hashCode() {
+    //      return x * 100000 + y;
     //  }
 }
