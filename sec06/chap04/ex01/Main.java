@@ -1,7 +1,6 @@
 package sec06.chap04.ex01;
 
-import sec05.chap08.ex01.YalcoCafe;
-import sec05.chap08.ex01.YalcoGroup;
+import sec05.chap08.ex01.*;
 
 public class Main {
     public static void main(String[] args) {
