@@ -44,6 +44,6 @@ public class Main {
 
         int added = add.func(2, 3);
         int multiplied = multAndPrint.func(2, 3);
-
+        System.out.println("test");
     }
 }
