@@ -1,4 +1,4 @@
-package sec11.chap06.ex02;
+package sec11.chap06;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

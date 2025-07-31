@@ -1,4 +1,6 @@
-package sec11.chap06.ex02;
+package sec11.chap06;
+
+import sec11.chap06.ex02.RollDiceCall;
 
 import java.util.ArrayList;
 import java.util.List;
